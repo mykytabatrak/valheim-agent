@@ -1,0 +1,17 @@
+# Local game data and generated artifacts
+saves/
+control/
+work/
+.tooling/
+runtime/*.dll
+runtime/*.dylib
+*.log
+*.fch
+*.fwl
+*.db
+*.old
+*.bak
+*.json
+.env*
+__pycache__/
+.DS_Store
